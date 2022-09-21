@@ -8,6 +8,11 @@
 
 >Star this Repo.
 
+## OR 
+
+>Raise an Issue I will Invite you
+
+
 ### Start solving issues and raise the pull requests.
 
 ### If you want to contribute to a project, the simplest way is to:
