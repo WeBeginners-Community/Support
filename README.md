@@ -1,12 +1,10 @@
 # Support
 
-# Join-organization
-
 ## Join our WeBeginners organization and contribute.
 
 ### Simple steps to join:
 
->Add your names in contributing.md file 
+>Add your names in contributing.md file here
 
 >Star this Repo.
 
@@ -28,6 +26,4 @@
    
   6) Click Create pull request to open a new pull request
 
-If the reviewers ask for changes, repeat steps 5 and 6 to add more commits to your pull request.
-
-### Happy coding!
+### All the best 
